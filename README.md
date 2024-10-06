@@ -3,10 +3,10 @@
 
 **About me:
 
-- 🔭 I’m currently working on backend develop
+- 🔭 I’m currently working on backend development
 - 🌱 I’m currently learning cibersecurity
 - 👯 I’m looking to collaborate on web/mobile projects
-- 🤔 I’m looking for help with React
+- 🤔 I’m looking for help with Cloud Computing
 - 💬 Ask me about nodejs, vue, c++
 - 📫 How to reach me: luisaquijequiroga11@gmail.com
 
@@ -37,7 +37,7 @@
   </a>
   <h2>Backend Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,mysql,mongodb,express,nodejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts,mysql,postgresql,mongodb,express,nodejs&perline=14" />
   </a>
   <h2>Hosting</h2>
   <a href="https://skillicons.dev">
