@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Luis
 
 
-**About me:
+**About me:**
 
 - 🔭 I’m currently working on backend development
 - 🌱 I’m currently learning cibersecurity
