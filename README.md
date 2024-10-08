@@ -37,7 +37,7 @@
   </a>
   <h2>Backend Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,dotnet&perline=14" />
+    <img src="https://skillicons.dev/icons?i=express,dotnet&perline=14" />
   </a>
   <h2>Databases</h2>
   <a href="https://skillicons.dev">
@@ -49,7 +49,7 @@
   </a>
   <h2>Software & Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,github,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,github,postman,vscode,docker,nodejs&perline=14" />
   </a>
 </p>
 
