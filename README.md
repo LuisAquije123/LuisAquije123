@@ -3,8 +3,8 @@
 
 **About me:**
 
-- 🔭 I’m currently working on backend development
-- 🌱 I’m currently learning cibersecurity
+- 🔭 I’m currently working on Backend Development
+- 🌱 I’m currently learning Cybersecurity
 - 👯 I’m looking to collaborate on web/mobile projects
 - 🤔 I’m looking for help with Cloud Computing
 - 💬 Ask me about nodejs, vue, c++
@@ -37,11 +37,15 @@
   </a>
   <h2>Backend Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,mysql,postgresql,mongodb,express,nodejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=express,nodejs,dotnet&perline=14" />
+  </a>
+  <h2>Databases</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=14" />
   </a>
   <h2>Hosting</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,firebase,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=azure,firebase&perline=14" />
   </a>
   <h2>Software & Tools</h2>
   <a href="https://skillicons.dev">
