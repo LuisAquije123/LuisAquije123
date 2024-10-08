@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning Cybersecurity
-- 👯 I’m looking to collaborate on web/mobile projects
+- 👯 I’m looking to collaborate on Web/Mobile projects
 - 🤔 I’m looking for help with Cloud Computing
-- 💬 Ask me about nodejs, vue, c++
+- 💬 Ask me about Nodejs, Vue, C++
 - 📫 How to reach me: luisaquijequiroga11@gmail.com
 
 
@@ -49,7 +49,7 @@
   </a>
   <h2>Software & Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,github,postman,vscode,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,github,postman,vscode&perline=14" />
   </a>
 </p>
 
