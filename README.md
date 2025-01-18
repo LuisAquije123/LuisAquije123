@@ -49,7 +49,7 @@
   </a>
   <h2>Software & Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,github,postman,vscode,docker,nodejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,github,postman,vscode,docker,nodejs,kali&perline=14" />
   </a>
 </p>
 
