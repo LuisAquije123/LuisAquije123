@@ -29,11 +29,11 @@
 <p align="center">
   <h2>Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,py,ts&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,py,ts,php&perline=14" />
   </a>
   <h2>Frontend Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,angular&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,angular,laravel&perline=14" />
   </a>
   <h2>Backend Development</h2>
   <a href="https://skillicons.dev">
