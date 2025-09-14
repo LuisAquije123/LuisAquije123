@@ -3,11 +3,11 @@
 
 **About me:**
 
-- 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning Cybersecurity
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning React, Typescript
 - 👯 I’m looking to collaborate on Web/Mobile projects
-- 🤔 I’m looking for help with Cloud Computing
-- 💬 Ask me about Nodejs, Vue, C++
+- 🤔 I’m looking for help with Cybersecurity
+- 💬 Ask me about Blockchain
 - 📫 How to reach me: luisaquijequiroga11@gmail.com
 
 
