@@ -33,23 +33,23 @@
   </a>
   <h2>Frontend Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,angular,react,nextjs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&perline=14" />
   </a>
   <h2>Backend Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,dotnet,laravel,nestjs,django&perline=14" />
+    <img src="https://skillicons.dev/icons?i=express,laravel,nestjs&perline=14" />
   </a>
   <h2>Databases</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&perline=14" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=14" />
   </a>
   <h2>Hosting</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,firebase,vercel&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,firebase,vercel&perline=14" />
   </a>
   <h2>Software & Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,github,postman,vscode,docker,nodejs,kali&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,github,postman,vscode,docker&perline=14" />
   </a>
 </p>
 
