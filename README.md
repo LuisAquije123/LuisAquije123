@@ -4,7 +4,7 @@
 **About me:**
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning React, Typescript
+- 🌱 I’m currently learning IoT
 - 👯 I’m looking to collaborate on Web/Mobile projects
 - 🤔 I’m looking for help with Cybersecurity
 - 💬 Ask me about Blockchain
