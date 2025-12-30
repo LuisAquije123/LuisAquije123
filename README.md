@@ -21,11 +21,11 @@
   </a>
   <h2>Frontend Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nextjs&perline=14" />
   </a>
   <h2>Backend Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,laravel,fastapi&perline=14" />
+    <img src="https://skillicons.dev/icons?i=laravel,fastapi&perline=14" />
   </a>
   <h2>Databases</h2>
   <a href="https://skillicons.dev">
