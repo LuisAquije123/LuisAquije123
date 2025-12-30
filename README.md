@@ -15,18 +15,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAquije123&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/LuisAquije123/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=LuisAquije123" alt="Anurag's GitHub stats" />
-  </a>
-</p>
-
-
-<p align="center">
   <h2>Languages</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,js,py,ts,php&perline=14" />
@@ -37,7 +25,7 @@
   </a>
   <h2>Backend Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,laravel,nestjs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=express,laravel,fastapi&perline=14" />
   </a>
   <h2>Databases</h2>
   <a href="https://skillicons.dev">
