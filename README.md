@@ -29,15 +29,15 @@
   </a>
   <h2>Databases</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=14" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&perline=14" />
   </a>
   <h2>Hosting</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase,vercel&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,firebase,render&perline=14" />
   </a>
   <h2>Software & Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,github,postman,vscode,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,github,bruno,vscode,docker&perline=14" />
   </a>
 </p>
 
