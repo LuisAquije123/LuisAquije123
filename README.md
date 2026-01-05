@@ -11,9 +11,6 @@
 - 📫 How to reach me: luisaquijequiroga11@gmail.com
 
 
-<h2>Github Analytics</h2>
-
-
 <p align="center">
   <h2>Languages</h2>
   <a href="https://skillicons.dev">
