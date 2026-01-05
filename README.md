@@ -37,7 +37,7 @@
   </a>
   <h2>Software & Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,github,bruno,vscode,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,github,vscode,docker,arduino&perline=14" />
   </a>
 </p>
 
