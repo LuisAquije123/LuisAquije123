@@ -30,7 +30,7 @@
   </a>
   <h2>Hosting</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase,render&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,vercel&perline=14" />
   </a>
   <h2>Software & Tools</h2>
   <a href="https://skillicons.dev">
