@@ -14,15 +14,15 @@
 <p align="center">
   <h2>Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,py,ts,php&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php&perline=14" />
   </a>
   <h2>Frontend Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nextjs,vite,react&perline=14" />
   </a>
   <h2>Backend Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,fastapi&perline=14" />
+    <img src="https://skillicons.dev/icons?i=laravel,nestjs&perline=14" />
   </a>
   <h2>Databases</h2>
   <a href="https://skillicons.dev">
@@ -30,11 +30,11 @@
   </a>
   <h2>Hosting</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,vercel&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,vercel,supabase&perline=14" />
   </a>
   <h2>Software & Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,github,vscode,docker,arduino&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,wordpress&perline=14" />
   </a>
 </p>
 
