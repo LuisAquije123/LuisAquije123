@@ -14,15 +14,15 @@
 <p align="center">
   <h2>Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,py,php&perline=14" />
   </a>
-  <h2>Frontend Development</h2>
+  <h2>Frontend & Mobile Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,vite,react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=flutter,react&perline=14" />
   </a>
   <h2>Backend Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nestjs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=laravel,python&perline=14" />
   </a>
   <h2>Databases</h2>
   <a href="https://skillicons.dev">
